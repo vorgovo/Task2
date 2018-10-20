@@ -1,7 +1,3 @@
-//
-// Created by Yaroslav239 on 24.06.2018.
-//
-
 #include "big_integer.h"
 
 //UINT32_MAX

@@ -1,7 +1,3 @@
-//
-// Created by Yaroslav239 on 24.06.2018.
-//
-
 #ifndef BIGINT_VECTOR_OPT_H
 #define BIGINT_VECTOR_OPT_H
 
